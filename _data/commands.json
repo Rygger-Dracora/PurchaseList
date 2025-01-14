@@ -325,17 +325,6 @@
   },
   {
     "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-  {
-    "data": {
       "isShortcut": true,
       "isBuy": false,
       "isBalance": false,
