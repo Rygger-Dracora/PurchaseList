@@ -1002,70 +1002,16 @@
     "version": "1.1.8947.24741"
   },
   {
+    "author": "GonDragon",
+    "name": "UI Not Included: Numbers Addon",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "ShyGuySpirit",
     "name": "UINotIncluded: Character Editor Addon",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Use This Instead",
-    "steamId": "3396308787",
-    "version": "1.5.15"
-  },
-  {
-    "author": "Malte Schulze",
-    "name": "RIMMSqol",
-    "steamId": "1084452457",
-    "version": "1.0.9121.28495"
-  },
-  {
-    "author": "Xercaine",
-    "name": "Wall Heater",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": ".json",
-    "name": "Retractable Defenses Updated",
-    "steamId": "3102866619",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "TD Enhancement Pack",
-    "steamId": "1339135272",
-    "version": "1.3.8.0"
-  },
-  {
-    "author": "void",
-    "name": "Terraform Rimworld",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Tweaks Galore",
-    "steamId": "2695164414",
-    "version": "3.0.9046.40132"
-  },
-  {
-    "author": "ISOREX, Turnovus and community contributors.",
-    "name": "Community Framework",
-    "steamId": "2585162118",
-    "version": "1.5.0"
-  },
-  {
-    "author": "Lanilor",
-    "name": "Simply More Bridges (Continued)",
-    "steamId": "2012484790",
-    "version": "1.5.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Performance Analyzer",
-    "steamId": "2038874626",
-    "version": "1.0.0+2534407508e276c66794b6b0ba18f36e2117384e"
   },
   {
     "author": "nry",
