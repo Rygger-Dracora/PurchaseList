@@ -63,7 +63,7 @@
     "addPrice": 2000,
     "removePrice": 550,
     "degree": 0,
-    "description": "Timmy is an exceptionally agreeable and giving person. he rarely insults others or starts fights, and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance.",
+    "description": "Timmy is an exceptionally agreeable and giving person. he rarely insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions.",
     "stats": [
       "Group meditation focus type allowed.",
       "x200% global certainty loss factor"
@@ -2808,5 +2808,281 @@
     },
     "defName": "isekaimaincharacter",
     "name": "isekaiprotagonist"
+  },
+  {
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": 0,
+    "description": "Timmy has outstanding memory, both in terms of retaining information but also muscle memory. his skills will never decay.",
+    "stats": [],
+    "conflicts": [],
+    "bypassLimit": false,
+    "data": {
+      "conflicts": [],
+      "stats": [],
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Anomaly",
+      "karmaTypeForAdding": null
+    },
+    "defName": "PerfectMemory",
+    "name": "perfectmemory"
+  },
+  {
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": 0,
+    "description": "Timmy has deep knowledge of the twisted patterns of dark psychic energy. he can study unnatural entities faster than others. he will also periodically teach this inhuman knowledge to others when he gets the chance.",
+    "stats": [
+      "+100% study efficiency",
+      "+50% entity study rate"
+    ],
+    "conflicts": [],
+    "bypassLimit": false,
+    "data": {
+      "conflicts": [],
+      "stats": [
+        "+100% study efficiency",
+        "+50% entity study rate"
+      ],
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Anomaly",
+      "karmaTypeForAdding": null
+    },
+    "defName": "Occultist",
+    "name": "occultist"
+  },
+  {
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": 0,
+    "description": "Timmy has the ability to make everyone feel better and inspire them to be the best version of themselves.",
+    "stats": [],
+    "conflicts": [],
+    "bypassLimit": false,
+    "data": {
+      "conflicts": [],
+      "stats": [],
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Anomaly",
+      "karmaTypeForAdding": null
+    },
+    "defName": "Joyous",
+    "name": "joyous"
+  },
+  {
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": 0,
+    "description": "Timmy doesn't have basic needs like eating, sleeping, or comfort. his body is driven by some unknown mechanism, which has turned his eyes completely white.",
+    "stats": [],
+    "conflicts": [],
+    "bypassLimit": false,
+    "data": {
+      "conflicts": [],
+      "stats": [],
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Anomaly",
+      "karmaTypeForAdding": null
+    },
+    "defName": "BodyMastery",
+    "name": "bodymastery"
+  },
+  {
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": 0,
+    "description": "Timmy is a peculiar person who seems fixated on horrendous ideas. Talking to him is often upsetting.",
+    "stats": [
+      "Morbid meditation focus type allowed."
+    ],
+    "conflicts": [],
+    "bypassLimit": false,
+    "data": {
+      "conflicts": [],
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Anomaly",
+      "karmaTypeForAdding": null
+    },
+    "defName": "Disturbing",
+    "name": "disturbing"
+  },
+  {
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": 0,
+    "description": "Timmy is strangely intrigued by unnatural entities and is easily enthralled by them.",
+    "stats": [
+      "Artistic meditation focus type disabled.",
+      "Void meditation focus type allowed.",
+      "Only mental break \"entity liberator\" allowed."
+    ],
+    "conflicts": [],
+    "bypassLimit": false,
+    "data": {
+      "conflicts": [],
+      "stats": [
+        "Artistic meditation focus type disabled.",
+        "Void meditation focus type allowed.",
+        "Only mental break \"entity liberator\" allowed."
+      ],
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Anomaly",
+      "karmaTypeForAdding": null
+    },
+    "defName": "VoidFascination",
+    "name": "voidfascination"
+  },
+  {
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": 0,
+    "description": "Timmy is a successful product of an ancient experimental project, he almost entirely specialized for combat. he is extremely hard to defeat.",
+    "stats": [
+      "x60% incoming damage multiplier",
+      "x75% aiming time",
+      "x105% weapon handling",
+      "x130% immunity gain speed",
+      "x0% psychic sensitivity"
+    ],
+    "conflicts": [],
+    "bypassLimit": false,
+    "data": {
+      "conflicts": [],
+      "stats": [
+        "x60% incoming damage multiplier",
+        "x75% aiming time",
+        "x105% weapon handling",
+        "x130% immunity gain speed",
+        "x0% psychic sensitivity"
+      ],
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Ancient urban ruins",
+      "karmaTypeForAdding": null
+    },
+    "defName": "AM_Elite",
+    "name": "successfulproducts"
+  },
+  {
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": 0,
+    "description": "Timmy is a fashion guy who is skilled at shooting in a slide shovel, he can use gun to blast everything he sees.",
+    "stats": [
+      "x70% incoming damage multiplier",
+      "x1% aiming time",
+      "x155% weapon handling",
+      "x0% psychic sensitivity"
+    ],
+    "conflicts": [],
+    "bypassLimit": false,
+    "data": {
+      "conflicts": [],
+      "stats": [
+        "x70% incoming damage multiplier",
+        "x1% aiming time",
+        "x155% weapon handling",
+        "x0% psychic sensitivity"
+      ],
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Ancient urban ruins",
+      "karmaTypeForAdding": null
+    },
+    "defName": "AM_MallGuards",
+    "name": "fashionguy"
+  },
+  {
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": 0,
+    "description": "Timmy was implanted with an excessive amount of parasites, which completely destroyed his sanity but greatly increased his strength.",
+    "stats": [
+      "+50.0 melee dodge chance",
+      "-10.5 melee hit chance",
+      "+300% melee damage factor",
+      "-50.0C min comfortable temperature",
+      "x45% incoming damage multiplier",
+      "x0% psychic sensitivity",
+      "x0% stagger time multiplier"
+    ],
+    "conflicts": [],
+    "bypassLimit": false,
+    "data": {
+      "conflicts": [],
+      "stats": [
+        "+50.0 melee dodge chance",
+        "-10.5 melee hit chance",
+        "+300% melee damage factor",
+        "-50.0C min comfortable temperature",
+        "x45% incoming damage multiplier",
+        "x0% psychic sensitivity",
+        "x0% stagger time multiplier"
+      ],
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Ancient urban ruins",
+      "karmaTypeForAdding": null
+    },
+    "defName": "AM_Slaughter",
+    "name": "parasiticfailedproduct"
+  },
+  {
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": 0,
+    "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+    "stats": [],
+    "conflicts": [],
+    "bypassLimit": false,
+    "data": {
+      "conflicts": [],
+      "stats": [],
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Vanilla Ideology Expanded - Memes and Structures",
+      "karmaTypeForAdding": null
+    },
+    "defName": "VME_Elder",
+    "name": "elder"
   }
 ]
