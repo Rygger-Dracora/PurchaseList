@@ -29,7 +29,7 @@
     "HasLocalCooldown": false,
     "GlobalCooldown": 2800,
     "LocalCooldown": 0,
-    "Mod": "Unknown"
+    "Mod": "Twitch Toolkit"
   },
   "foggyrain": {
     "EventType": "Default",
@@ -710,45 +710,5 @@
     "GlobalCooldown": 2400,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
-  },
-  "SpringCleaning": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "vomitornado": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": true,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 6000,
-    "Mod": "Unknown"
-  },
-  "vomitsunami": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "degurgitation": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "vometeor": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
   }
 }

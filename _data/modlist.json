@@ -138,6 +138,12 @@
     "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
   },
   {
+    "author": "Owlchemist",
+    "name": "Cherry Picker",
+    "steamId": "3521312241",
+    "version": "1.6+7e77b7fdba2daa472a5b7c2b35ac17c149dffa99"
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -654,6 +660,12 @@
     "version": "1.6.4"
   },
   {
+    "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "CE Team",
     "name": "Combat Extended",
     "steamId": "2890901044",
@@ -670,6 +682,12 @@
     "name": "EBSG Framework",
     "steamId": "3112549163",
     "version": "1.0.9598.21927"
+  },
+  {
+    "author": "Sergkart",
+    "name": "WVC - Xenotypes and Genes",
+    "steamId": "2886992038",
+    "version": "1.0.0.0"
   },
   {
     "author": "alite",
@@ -796,6 +814,12 @@
     "name": "Multi-Doctor Surgery",
     "steamId": "3356249192",
     "version": "1.0.0+b0a57b08af58397f7d06b4483f8779c1134a5b90"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
   },
   {
     "author": "Epicguru",
@@ -1088,6 +1112,66 @@
   {
     "author": "TheLastBulletBender",
     "name": "Saddle-up 2!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small - More Xenotypes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small - Races",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small - Yokai",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Birby",
+    "name": "Isekai RPG Leveling - Character Editor Support",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fuglypump",
+    "name": "Rabbit of Caerbannog Incident (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Custom Icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Asname011",
+    "name": "WVC - Xenotypes and Genes CE patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and legodude17",
+    "name": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MemeGoddess",
+    "name": "Search and Destroy (Continued)",
+    "steamId": "3232242247",
+    "version": "1.0.0+5b32e05947cae03e61dfdefe6f78a32e5c98b235"
+  },
+  {
+    "author": "Dracora",
+    "name": "(RD)CorpseBombs",
     "steamId": null,
     "version": null
   }
