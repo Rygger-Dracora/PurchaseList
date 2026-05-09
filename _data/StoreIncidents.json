@@ -429,7 +429,12 @@
 		"abr": "vomitrain",
 		"price": 2650,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidinfestation",
+		"price": 16800,
+		"karmatype": "Doom"
 	}
 	],
-	"total": 86
+	"total": 87
 }

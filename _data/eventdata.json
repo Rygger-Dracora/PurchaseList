@@ -750,5 +750,13 @@
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
     "Mod": "Unknown"
+  },
+  "mechanoidinfestation": {
+    "EventType": "Default",
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 600,
+    "LocalCooldown": 1200,
+    "Mod": "Unknown"
   }
 }

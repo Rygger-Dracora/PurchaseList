@@ -73,6 +73,12 @@
   },
   {
     "author": "Dracora",
+    "name": "(RD)CorpseBombs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dracora",
     "name": "(RD)OmniPrinter",
     "steamId": null,
     "version": null
@@ -681,7 +687,7 @@
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
-    "version": "1.0.9598.21927"
+    "version": "1.0.9624.36660"
   },
   {
     "author": "Sergkart",
@@ -979,12 +985,6 @@
   },
   {
     "author": "Dracora",
-    "name": "(RD)CustomBoomstick",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dracora",
     "name": "(RD)FalkorMemoria",
     "steamId": null,
     "version": null
@@ -1027,12 +1027,6 @@
   },
   {
     "author": "Dracora",
-    "name": "(RD)PersonaShovel",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dracora",
     "name": "(RD)PlanetaryExtermination",
     "steamId": null,
     "version": null
@@ -1070,12 +1064,6 @@
   {
     "author": "Dracora",
     "name": "(RD)SpringCleaning",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dracora",
-    "name": "(RD)SticksandStones",
     "steamId": null,
     "version": null
   },
@@ -1171,7 +1159,31 @@
   },
   {
     "author": "Dracora",
-    "name": "(RD)CorpseBombs",
+    "name": "(RD)CustomBoomstick",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dracora",
+    "name": "(RD)Mechanoid Infestation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dracora",
+    "name": "(RD)PersonaShovel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dracora",
+    "name": "(RD)SticksandStones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dracora",
+    "name": "(RD)AntigrainWarheadGrenades",
     "steamId": null,
     "version": null
   }
